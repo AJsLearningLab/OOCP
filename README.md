@@ -11,10 +11,10 @@ This project is an Arduino-based solution to print exit passes for students usin
 
 ## Hardware Requirements
 
-- Arduino Uno or compatible board
-- Adafruit Thermal Printer
-- DS3231 Real-Time Clock (RTC) module
-- Momentary push button
+- Arduino Nano or compatible board https://www.aliexpress.com/item/4000903444456.html?spm=a2g0o.order_list.order_list_main.5.79e41802RhLJ3d
+- Thermal Printer with TTL interface https://www.aliexpress.com/item/32676222159.html?spm=a2g0o.order_list.order_list_main.567.79e41802RhLJ3d
+- DS3231 Real-Time Clock (RTC) module https://www.aliexpress.com/item/32833136577.html?spm=a2g0o.productlist.main.1.5657755bKG8rpu&algo_pvid=05c4badc-dae3-4160-857f-38f3541599e4&algo_exp_id=05c4badc-dae3-4160-857f-38f3541599e4-0&pdp_npi=3%40dis%21AUD%212.59%212.59%21%21%21%21%21%40211be10916811607982508093d074a%2110000011431877724%21sea%21AU%21712299132&curPageLogUid=30xvz4SixwnI
+- Momentary push button https://www.aliexpress.com/item/1005003628044406.html?spm=a2g0o.order_list.order_list_main.347.79e41802RhLJ3d
 - Jumper wires and breadboard
 
 ## Software Dependencies
