@@ -1,6 +1,6 @@
 # Exit Pass Printer
 
-This project is an Arduino-based solution to print exit passes for visitors using a thermal printer and a real-time clock module. The system prints a pass containing the visitor's name, date, and time of exit, along with a validity period of 10 minutes.
+This project is an Arduino-based solution to print exit passes for students using a thermal printer and a real-time clock module. The system prints a pass containing the teacher's name, date, and time of exit, along with a validity period of 10 minutes.
 
 ## Features
 
