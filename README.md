@@ -65,7 +65,7 @@ Make sure to use the appropriate power supply for your thermal printer. Some the
 ## Usage
 
 - Press the button to print an exit pass.
-- The exit pass will contain the visitor's name, date, and time of exit, along with a validity period of 10 minutes.
+- The exit pass will contain the teacher's name, date, and time of exit, along with a validity period of 10 minutes.
 
 ## Customization
 
