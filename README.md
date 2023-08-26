@@ -40,13 +40,12 @@ Pin 1 (TX) -> RX
 Pin 3 (RX) -> TX
 GND -> GND
 5V -> VCC
-Pin 4 -> DTR
+
 Arduino Uno <-> Momentary Push Button:
 
-Pin 5 -> One leg of the button
-GND -> The other leg of the button (use a 10kΩ resistor to connect the button leg to GND)
+Pin 6 -> One leg of the button
+GND -> The other leg of the button 
 
-Make sure to use the appropriate power supply for your thermal printer. Some thermal printers may require a separate power supply with a higher current rating.
 
 ## Installation
 
